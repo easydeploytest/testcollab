@@ -1,3 +1,5 @@
+collaborators:
+- slava-ganzin
 name: testcollab
 otel:
   runtime: nodejs
