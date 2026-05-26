@@ -1,5 +1,5 @@
 name: testcollab
-team: easy-deploy
+otel:
+  runtime: nodejs
 port: 3000
-collaborators:
-  - slava-ganzin
+team: easy-deploy
